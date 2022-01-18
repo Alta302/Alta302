@@ -11,13 +11,15 @@
 
 <br>
 
-<h3 align="center"> Contect </h3>
+<h3>GitHub</h3>
+
+[![Alta302's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alta302)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alta302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<h3 align="center">Contect</h3>
 
 <p align="center">
   <a href="mailto:ckddyd1202@daum.net"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white&link=ckddyd1202@daum.net"/></a>
 </p>
-
-<br>
-
-[![Alta302's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alta302)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alta302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
