@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChangYong&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Changyong&fontSize=70&animation=twinkling)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-000000?style=flat-square&logo=IOS&logoColor=white"/></a>&nbsp
